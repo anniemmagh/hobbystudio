@@ -1,20 +1,27 @@
 * {
+    border: 1px solid red;
     margin: 0;
     padding: 0;
-}
+} 
 
-img {
-    margin: left;
-    padding: 0%;
-    display: flex;
-    border-radius: 40px;
-}
+
 
 p {
     display: flex;
     padding: 0%;
     justify-content: center;
     margin-left: 50rem;
-    width: 40px;
+    width: 100px;
+    
+
 
 }
+
+img {
+    margin: left;
+    padding: 0%;
+    display: flex;
+    border-radius: 30px;
+    
+   
+} 
