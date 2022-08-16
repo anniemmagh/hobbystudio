@@ -12,6 +12,7 @@ img {
 
 p {
     display: flex;
+    padding: 0%;
     justify-content: center;
     margin-left: 50rem;
     width: 40px;
